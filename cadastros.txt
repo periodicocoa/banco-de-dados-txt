@@ -1,0 +1,9 @@
+jose, 123, 2
+pablo, 122, 2
+frederico, 588, 2
+sabrina, 789, 3
+alienigena, zibzibzib, 3
+luiz, 001, 1
+pedro, 811, 1
+felipe, 533, 2
+wesley, 453, 3

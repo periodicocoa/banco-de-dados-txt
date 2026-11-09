@@ -1,0 +1,7 @@
+camisa, 89, 92
+calca, 100, 96
+cueca, 4, 96
+meia, 4, 90
+meia calca, 34,97
+blusa de frio, 59, 20
+calca moletom, 65, 23
